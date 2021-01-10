@@ -4,6 +4,8 @@
 Project imulates simple stock market or trade platform. Users can make offers to buy or sell a particular stock from other users. 
 The program automatically creates a trade between two users at the best price.
 
+<a href="https://github.com/actions/create-release"><img alt="GitHub Actions status" src="https://github.com/actions/create-release/workflows/Tests/badge.svg"></a>
+
 ## Description of the project
 * #### Registration app
     Users can register on the platform and they has to confirm their email address to create offers. If user doesn't confirm his email address, he won't be able 
